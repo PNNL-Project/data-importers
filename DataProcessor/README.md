@@ -30,4 +30,5 @@ This is an application that imports data (in CSV format) collected by Voltron in
 ***
 ## [License](#license)
 
-Data Processor is provided under the GNU General Public License v3.0
+Data Processor is provided under the [GNU General Public License v3.0] (https://github.com/PNNL-Project/data-importers/blob/master/LICENSE).
+
